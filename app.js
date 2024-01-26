@@ -4,7 +4,7 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
- /* MÓDULO dotenv */
+ /* MÓDULO dotenv e */
  const dotenv = require('dotenv');
 
  /* CARGA DE DATOS DE CONFIGURACION EN MEMORIA */
